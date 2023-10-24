@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./Asset/Images/pattern-background-desktop.svg);
+
+}
+/* .bk{
+    background: url(./Asset/Images/pattern-background-desktop.svg);
+    
+    height: 600px;
+    margin-top:auto;
+    padding: 28px;
+    margin-left: 100px;
+    margin-right: 100px;
+} */
+
+.lo{
+    width: 400px;
+    height: 150px;
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    background: url(./Asset/Images/illustration-hero.svg);
+    border-top-right-radius: 15px;
+    border-top-left-radius:15px ;
+}
+
+.kl{
+    background-color:rgb(194, 234, 248);
+    width: 400px;
+    height: 400px;
+    margin-bottom: px;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}
+.anl{
+    background-color:rgb(219, 250, 250);
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.all{
+    padding: 30px;
+}
